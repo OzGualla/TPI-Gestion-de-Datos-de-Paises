@@ -1,0 +1,214 @@
+nombre,población,superficie_km2,continente
+Afghanistan,31056997,1677019,Asia
+Albania,3581655,74457,Europa
+Algeria,32930091,6168683,Africa
+American Samoa,57794,515,Oceania
+Andorra,71201,1212,Europa
+Angola,12127071,3228941,Africa
+Anguilla,13477,264,America
+Antigua & Barbuda,69108,1147,America
+Argentina,39921833,7166217,America
+Aruba,71891,500,America
+Australia,20264082,19908865,Oceania
+Austria,8192880,217222,Europa
+"Bahamas, The",303770,36104,America
+Bahrain,698585,1722,Asia
+Bangladesh,147365352,372959,Asia
+Barbados,279912,1116,America
+Belgium,10379067,79067,Europa
+Belize,287730,59482,America
+Benin,7862944,291685,Africa
+Bermuda,65773,137,America
+Bhutan,2279723,121730,Asia
+Bolivia,8989046,2845311,America
+Bosnia & Herzegovina,4498976,132424,Europa
+Botswana,1639833,1554952,Africa
+Brazil,188078227,22045904,America
+British Virgin Is.,23098,396,America
+Brunei,379444,14944,Asia
+Bulgaria,7385367,287256,Europa
+Burkina Faso,13902972,710175,Africa
+Burma,47382633,1757308,Asia
+Burundi,8090068,72079,Africa
+Cambodia,13881427,468892,Asia
+Cameroon,17340702,1231385,Africa
+Canada,33098932,25860195,America
+Cape Verde,420979,10445,Africa
+Cayman Islands,45436,679,America
+Central African Rep.,4303356,1613522,Africa
+Chad,9944201,3325547,Africa
+Chile,16134219,1960493,America
+China,1313973713,24856030,Asia
+Colombia,43593035,2949766,America
+Comoros,690948,5620,Africa
+"Congo, Dem. Rep.",62660551,6074588,Africa
+"Congo, Repub. of the",3702314,885777,Africa
+Cook Islands,21388,622,Oceania
+Costa Rica,4075261,132348,America
+Cote d'Ivoire,17654843,835168,Africa
+Croatia,4494749,146443,Europa
+Cuba,11382820,287126,America
+Cyprus,784301,23957,Asia
+Czech Republic,10235455,204262,Europa
+Denmark,5450661,111613,Europa
+Djibouti,486530,59570,Africa
+Dominica,68910,1953,America
+Dominican Republic,9183984,126210,America
+East Timor,1062777,38868,Asia
+Ecuador,13547510,734418,America
+Egypt,78887007,2593745,Africa
+El Salvador,6822378,54493,America
+Equatorial Guinea,540109,72652,Africa
+Eritrea,4786994,314218,Africa
+Ethiopia,74777981,2919248,Africa
+Faroe Islands,47246,3623,Europa
+Fiji,905949,47319,Oceania
+Finland,5231372,875792,Europa
+France,60876136,1416802,Europa
+French Guiana,199509,235689,America
+French Polynesia,274578,10792,Oceania
+Gabon,1424906,693255,Africa
+"Gambia, The",1641564,29267,Africa
+Gaza Strip,1428757,932,Asia
+Germany,82422299,924681,Europa
+Ghana,22409572,620199,Africa
+Gibraltar,27928,18,Europa
+Greece,10688058,341723,Europa
+Greenland,56361,5610141,America
+Grenada,89703,891,America
+Guadeloupe,452776,4610,America
+Guam,171019,1401,Oceania
+Guatemala,12293545,282024,America
+Guernsey,65409,202,Europa
+Guinea,9690222,636767,Africa
+Guinea-Bissau,1442029,93550,Africa
+Guyana,767245,556770,America
+Haiti,8308504,71872,America
+Honduras,7326496,290312,America
+Hong Kong,6940432,2828,Asia
+Hungary,9981334,240947,Europa
+Iceland,299388,266769,Europa
+India,1095351995,8514825,Asia
+Indonesia,245452739,4971330,Asia
+Iran,68688433,4268304,Asia
+Iraq,26783383,1132012,Asia
+Ireland,4062235,182024,Europa
+Isle of Man,75441,1481,Europa
+Israel,6352117,53794,Asia
+Italy,58133509,780183,Europa
+Jamaica,2758124,28467,America
+Japan,127463611,978589,Asia
+Jersey,91084,300,Europa
+Jordan,5906760,239056,Asia
+Kenya,34707817,1509058,Africa
+Kiribati,105432,2100,Oceania
+"Korea, North",23113019,312197,Asia
+"Korea, South",48846823,255062,Asia
+Kuwait,2418393,46154,Asia
+Laos,6368481,613310,Asia
+Lebanon,3874050,26936,Asia
+Lesotho,2022331,78619,Africa
+Liberia,3042004,288447,Africa
+Libya,5900754,4557191,Africa
+Liechtenstein,33987,414,Europa
+Luxembourg,474413,6698,Europa
+Macau,453125,73,Asia
+Macedonia,2050554,65612,Europa
+Madagascar,18595469,1520428,Africa
+Malawi,13013926,306862,Africa
+Malaysia,24385858,854049,Asia
+Maldives,359008,777,Asia
+Mali,11716829,3211588,Africa
+Malta,400214,818,Europa
+Marshall Islands,60422,30702,Oceania
+Martinique,436131,2849,America
+Mauritania,3177388,2669503,Africa
+Mauritius,1240827,5284,Africa
+Mayotte,201234,969,Africa
+Mexico,107449525,5108885,America
+"Micronesia, Fed. St.",108004,1818,Oceania
+Monaco,32543,5,Europa
+Mongolia,2832224,4051045,Asia
+Montserrat,9439,264,America
+Morocco,33241259,1156560,Africa
+Mozambique,19686505,2076110,Africa
+Namibia,2044147,2137824,Africa
+Nauru,13287,54,Oceania
+Nepal,28287147,381197,Asia
+Netherlands,16491461,107552,Europa
+Netherlands Antilles,221736,2486,America
+New Caledonia,219246,49365,Oceania
+New Zealand,4076140,695879,Oceania
+Nicaragua,5570129,335388,America
+Niger,12525094,3281517,Africa
+Nigeria,131859731,2392550,Africa
+N. Mariana Islands,82459,1235,Oceania
+Norway,4610820,838644,Europa
+Oman,3102229,550269,Asia
+Pakistan,165803560,2082197,Asia
+Palau,20579,1186,Oceania
+Panama,3191319,202537,America
+Papua New Guinea,5670544,1198751,Oceania
+Paraguay,6506464,1053478,America
+Peru,28302603,3328707,America
+Philippines,89468677,776997,Asia
+Poland,38536869,809851,Europa
+Portugal,10605870,239292,Europa
+Puerto Rico,3927188,35716,America
+Qatar,885359,29622,Asia
+Reunion,787584,6519,Africa
+Romania,22303552,615123,Europa
+Rwanda,8648248,68215,Africa
+Saint Helena,7502,1070,Africa
+Saint Kitts & Nevis,39129,676,America
+Saint Lucia,168458,1595,America
+St Pierre & Miquelon,7026,627,America
+Saint Vincent and the Grenadines,117848,1008,America
+Samoa,176908,7625,Oceania
+San Marino,29251,158,Europa
+Sao Tome & Principe,193413,2593,Africa
+Saudi Arabia,27019731,5077888,Asia
+Senegal,11987121,508130,Africa
+Serbia,9396411,228854,Europa
+Seychelles,81541,1178,Africa
+Sierra Leone,6005250,185806,Africa
+Singapore,4492150,1795,Asia
+Slovakia,5439448,126508,Europa
+Slovenia,2010347,52507,Europa
+Solomon Islands,552438,73685,Oceania
+Somalia,8863338,1651525,Africa
+South Africa,44187637,3159560,Africa
+Spain,40397842,1307380,Europa
+Sri Lanka,20222240,169929,Asia
+Sudan,41236378,6490023,Africa
+Suriname,439117,422868,America
+Swaziland,1136334,44970,Africa
+Sweden,9016596,1165402,Europa
+Switzerland,7523934,106941,Europa
+Syria,18881361,479614,Asia
+Taiwan,23036087,93188,Asia
+Tanzania,37445392,2447766,Africa
+Thailand,64631595,1331255,Asia
+Togo,5548702,147073,Africa
+Tonga,114689,1937,Oceania
+Trinidad & Tobago,1065842,13281,America
+Tunisia,10175014,423748,Africa
+Turkey,70413958,2021694,Asia
+Turks & Caicos Is,21152,1114,America
+Tuvalu,11810,67,Oceania
+Uganda,28195754,611341,Africa
+United Arab Emirates,2602713,214658,Asia
+United Kingdom,60609153,634081,Europa
+United States,298444215,24945281,America
+Uruguay,3431932,456408,America
+Vanuatu,208869,31598,Oceania
+Venezuela,25730435,2362200,America
+Vietnam,84402966,853557,Asia
+Virgin Islands,108605,4947,America
+Wallis and Futuna,16025,710,Oceania
+West Bank,2460492,15177,Asia
+Western Sahara,273008,688937,Africa
+Yemen,21456188,1367437,Asia
+Zambia,11502010,1949263,Africa
+Zimbabwe,12236805,1011598,Africa
+
